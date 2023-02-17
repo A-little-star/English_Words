@@ -126,18 +126,41 @@
 </details>
 
 <details>
-    <summary>accountable</summary>
-    adj.
+    <summary>hold sb. accountable for</summary>
+    认为……应该为……负责
 </details>
 
 <details>
-    <summary></summary>
+    <summary>deviate</summary>
+    v.偏离，背离
 </details>
 
 <details>
-    <summary></summary>
+    <summary>confront</summary>
+    v.面对，遭遇
 </details>
 
 <details>
-    <summary></summary>
+    <summary>disinclined</summary>
+    adj.不情愿
+</details>
+
+<details>
+    <summary>accommodate</summary>
+    v.迎合，迁就
+</details>
+
+<details>
+    <summary>somewhat</summary>
+    adv.稍微
+</details>
+
+<details>
+    <summary>distort</summary>
+    v.歪曲
+</details>
+
+<details>
+    <summary>remedy</summary>
+    n.处理方法
 </details>
