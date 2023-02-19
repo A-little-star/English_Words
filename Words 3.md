@@ -166,7 +166,7 @@
 </details>
 
 <details>
-    <summary>demonstate</summary>
+    <summary>demonstrate</summary>
     v.证明，说明
 </details>
 
