@@ -31,11 +31,6 @@
 </details>
 
 <details>
-    <summary>flexible</summary>
-    adj.柔韧的，灵活的
-</details>
-
-<details>
     <summary>irrespective</summary>
     adj.不考虑，不管，无关的
 </details>
