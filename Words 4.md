@@ -12,7 +12,7 @@
 
 <details>
     <summary>dysfunction</summary>
-    v.关系失衡
+    n.关系失衡，机能失调
 </details>
 
 <details>
