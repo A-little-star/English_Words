@@ -76,7 +76,7 @@
 </details>
 
 <details>
-    <summary>despete</summary>
+    <summary>despite</summary>
     adv.尽管
 </details>
 
