@@ -163,6 +163,7 @@
 
 <details>
     <summary>statistics</summary>
+    n.统计数据，统计学
 </details>
 
 <details>
