@@ -16,7 +16,7 @@
 </details>
 
 <details>
-    <summary>unmaaned aerial vehicle</summary>
+    <summary>unmaned aerial vehicle</summary>
     无人机
 </details>
 
