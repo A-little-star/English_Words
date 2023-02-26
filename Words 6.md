@@ -167,7 +167,8 @@
 
 <details>
     <summary>venture capital community</summary>
-    风险资本界
+    风险资本界 <br>
+    capital     n.首都，省会，中心  adj.资本的
 </details>
 
 <details>
