@@ -1,4 +1,4 @@
-                   ## Words 7
+## Words 7
 
 <details>
     <summary>annoyed</summary>
