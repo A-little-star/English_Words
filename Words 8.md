@@ -162,7 +162,7 @@
 
 <details>
     <summary>reluctance</summary>
-    n.不情愿，加强
+    n.不情愿，勉强
 </details>
 
 <details>
