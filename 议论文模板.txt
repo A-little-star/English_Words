@@ -1,0 +1,24 @@
+# 开头段
+    第一句：
+    With regard to ..., viewpoints vary substantially.
+    // 关于……，大家的观点大相径庭
+    第二局：
+    As far as I am concerned, I am in line with the argument that + .
+    // 就我而言，我赞同……的观点
+# 中间段
+    主旨句：
+    There are a vast number of reasons(why)/methods(how)/题干东西(what).
+    论证：
+    In the first place, the prime + 题干东西 + is undeniably ... 
+    // 首先，……毫无疑问是……的
+    On top of that, the second noteworthy + 题干东西 + is ...
+    // 除此之外，第二个值得关注的是……
+    后续衔接：
+    To elucidate, ...
+    // 解释一下，……
+# 结尾段
+    To sum up, in light of the above factors, it is reasonable to reach the conclusion that ...
+    // 综上所述，鉴于以上的观点，很自然可以得到……的结论
+    Only via this approach, ...(注意用半倒装)
+    // 只有通过这种方法，才能……
+
