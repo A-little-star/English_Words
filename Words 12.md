@@ -52,7 +52,8 @@
 
 <details>
     <summary>accusation</summary>
-    n.控告，谴责
+    n.控告，谴责 <br>
+    accuse  v.控告，谴责
 </details>
 
 <details>
@@ -92,7 +93,8 @@
 
 <details>
     <summary>extinguish</summary>
-    v.熄灭，扑灭
+    v.熄灭，扑灭    <br>
+    distinguish v.区分，使有别于
 </details>
 
 <details>
